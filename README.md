@@ -1,11 +1,11 @@
-Music Player UI
+# Music Player UI
 
 A sleek, modern front-end music player interface built for practice & fun.
 
 This project is a frontend-only design inspired by modern music platforms.
 It showcases layout planning, responsive design, styling techniques, and clean UI structure — all without backend or audio functionality (yet).
 
-Features
+## Features
 
 Modern, clean UI inspired by top music apps
 
@@ -27,7 +27,7 @@ Player panel
 
 Custom assets & icons using Boxicons
 
-Tech Stack
+## Tech Stack
 
 HTML5
 
